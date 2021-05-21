@@ -1,0 +1,15 @@
+header span{
+    color: white;
+    font-size: 50px;
+}
+
+header {
+    font-family: "Oswald", serif;
+    background-image: url(https://i.pinimg.com/originals/4a/94/26/4a94268541d7a0ed95a8be5138e8a288.jpg);
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    font-size: 40px;
+    color: #6F96FB;
+    padding: 10px;
+}
